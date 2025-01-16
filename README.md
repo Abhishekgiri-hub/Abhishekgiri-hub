@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abhishek Giri</h1>
-<h3 align="center">Aspiring Site Reliability Engineer (SRE) || Gen AI/ML || Docker || Kubernetes || Ansible || ArgoCD || Kaili || Prometheus || Grafana || Bash Shell Scripting || Red Hat Linux || AWS || Networking || Python || Flask APIfrom India</h3>
+<h3 align="left">Aspiring Site Reliability Engineer (SRE) || Gen AI/ML || Docker || Kubernetes || Ansible || ArgoCD || Kaili || Prometheus || Grafana || Bash Shell Scripting || Red Hat Linux || AWS || Networking || Python || Flask APIfrom India</h3>
 
 <img align="right" alt="coding" width="400" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTU0aDFsY2NjNmFxZnRzbHZxZmYwYzcwNHZyc2V0eXNveWszeTRoNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/odTTszSU3M3pb5I9eW/giphy.webp">
 
